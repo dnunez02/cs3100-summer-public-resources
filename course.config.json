@@ -457,16 +457,16 @@
         "2026-01-08"
       ],
       "topics": [
-        "Inheritance and Polymorphism in Java"
+        "Java Tooling, Inheritance and Polymorphism"
       ]
     },
     {
-      "lectureId": "l3-more-java",
+      "lectureId": "l3-more-java-new",
       "dates": [
         "2026-01-12"
       ],
       "topics": [
-        "Inheritance and Polymorphism in Java II"
+        "Generics, Java Data Structures and I/O"
       ]
     },
     {
